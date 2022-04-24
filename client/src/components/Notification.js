@@ -16,7 +16,7 @@ const Notification = () => {
     return () => {
       clearTimeout();
     };
-  }, [success]);
+  }, [message]);
 
   return (
     <div className='notification'>
