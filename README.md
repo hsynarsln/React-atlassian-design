@@ -36,7 +36,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com)
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/hsynarsln/React-search-portal.git
+$ git clone https://github.com/hsynarsln/React-atlassian-design.git
 $ cd api/
 
 # Install dependencies
@@ -49,7 +49,7 @@ $ npm start
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/hsynarsln/React-search-portal.git
+$ git clone https://github.com/hsynarsln/React-atlassian-design.git
 $ cd client/
 
 # Install dependencies

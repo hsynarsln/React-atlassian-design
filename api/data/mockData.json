@@ -808,49 +808,5 @@
 			"Azerbaijan",
 			"Shrewsbury"
 		]
-	],
-	"news": [
-		{
-			"image": "https://images.unsplash.com/photo-1650396693368-1c7239d278ca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
-			"title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-			"dateToNow": "1h ago",
-			"owner": "John Doe"
-		},
-		{
-			"image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
-			"title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-			"dateToNow": "1h ago",
-			"owner": "Troy Corison"
-		},
-		{
-			"image": "https://images.unsplash.com/photo-1650274790136-61f755869064?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-			"title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-			"dateToNow": "1h ago",
-			"owner": "Brenden Martinez"
-		},
-		{
-			"image": "https://images.unsplash.com/photo-1649949480665-a2ba4b37ed5b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1209&q=80",
-			"title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-			"dateToNow": "1h ago",
-			"owner": "Byron Fitzgerald"
-		},
-		{
-			"image": "https://images.unsplash.com/photo-1650374471530-8efdf239a269?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-			"title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-			"dateToNow": "1h ago",
-			"owner": "Lunea Kinney"
-		},
-		{
-			"image": "https://images.unsplash.com/photo-1650031906077-6e6b7e482ae1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=437&q=80",
-			"title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-			"dateToNow": "1h ago",
-			"owner": "Jemima Savage"
-		},
-		{
-			"image": "https://images.unsplash.com/photo-1569165003050-6c42600d9c7d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
-			"title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-			"dateToNow": "1h ago",
-			"owner": "Hayley Schultz"
-		}
 	]
 }
